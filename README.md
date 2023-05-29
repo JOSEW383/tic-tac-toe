@@ -1,7 +1,7 @@
 # Tic Tac Toe
 
 This project is an implementation of the popular game Tic Tac Toe (also known as Noughts and Crosses) using the JavaScript library React.
-<p><img src="https://github.com/JOSEW383/tic-tac-toe/blob/master/public/tic-tac-toe_demo.gif" alt="Demo" width="400" height="400" /></p>
+<p><img src="https://github.com/JOSEW383/tic-tac-toe/blob/master/public/tic-tac-toe_demo.gif" alt="Demo" width="50%" height="50%" /></p>
 
 ## Game
 
